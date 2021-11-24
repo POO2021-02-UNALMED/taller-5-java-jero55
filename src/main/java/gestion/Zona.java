@@ -1,5 +1,5 @@
 package gestion;
-import zooAnimales.Animal;
+import zooAnimales.*;
 import java.util.ArrayList;
 
 public class Zona {
